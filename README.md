@@ -15,7 +15,7 @@ This is a simple **text-based Blackjack game** built in Python. It allows player
 ✅ Supports **Hit, Stand, and Double Down** options 🎯\
 ✅ Play multiple rounds until you run out of chips 🔄
 
-## 📌 
+## 📌 How to play
 1️⃣ Run the script:
 2️⃣ Enter the number of chips you want to start with.
 3️⃣ Place your bet and play!
